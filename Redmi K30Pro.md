@@ -79,4 +79,5 @@
 [K30 Pro开发版21.4.14安卓11版本](https://hugeota.d.miui.com/21.4.14/miui_LMI_21.4.14_beb226bc6e_11.0.zip)
 
 [K30 Pro开发版21.5.12安卓11版本](https://hugeota.d.miui.com/21.5.12/miui_LMI_21.5.12_b0d58e4bba_11.0.zip)  (负一屏每次打开都需要重新加载)
+
 [K30 Pro开发版21.5.26安卓11版本](https://hugeota.d.miui.com/21.5.26/miui_LMI_21.5.26_91368e2881_11.0.zip)  (微博深色模式失效)
